@@ -1,0 +1,11 @@
+D:\РПМ\ПР13\asd\bin\Debug\BD_Tur_Firm.mdb
+D:\РПМ\ПР13\asd\bin\Debug\asd.exe.config
+D:\РПМ\ПР13\asd\bin\Debug\asd.exe
+D:\РПМ\ПР13\asd\bin\Debug\asd.pdb
+D:\РПМ\ПР13\asd\obj\Debug\asd.csprojAssemblyReference.cache
+D:\РПМ\ПР13\asd\obj\Debug\asd.Form1.resources
+D:\РПМ\ПР13\asd\obj\Debug\asd.Properties.Resources.resources
+D:\РПМ\ПР13\asd\obj\Debug\asd.csproj.GenerateResource.cache
+D:\РПМ\ПР13\asd\obj\Debug\asd.csproj.CoreCompileInputs.cache
+D:\РПМ\ПР13\asd\obj\Debug\asd.exe
+D:\РПМ\ПР13\asd\obj\Debug\asd.pdb
